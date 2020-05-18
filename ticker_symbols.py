@@ -12,3 +12,5 @@ def get_symbols():
                 names.append(row[1])
 
     return symbols, names
+
+
